@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Calculate the amount of rainwater retained given a list of wall heights."""
 
 def rain(walls):
     """
